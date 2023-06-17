@@ -1,5 +1,6 @@
 # Heart-risk
-•	The features:
+• The model implements SVM to classify wether the individual is facing a high risk of heart failure.	
+The features:
 1.	Age (in years): When one enters his/her name, age and other personal details in the app while starting, the app can make a count of the user’s age.
 2.	Sex (male:1 female:0)
 3.	CP: Chest Pain, this feature is omitted while creating the model since it is taken once the patient is admitted/ is under treatment.
